@@ -16,3 +16,12 @@ h3{
     font-size: 1.65em;
     margin: 0.5em 0;
 }
+h4{
+    color: rgb(142, 50, 218);
+    font-size: 1.125em;
+    margin: 0.5em 0;
+}
+a{ 
+    text-decoration: none !important;
+    color: rgb(191, 141, 238);
+}

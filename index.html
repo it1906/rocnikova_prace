@@ -14,12 +14,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:wght@100&display=swap"
         rel="stylesheet" />
     <link rel="stylesheet" href="styly.css">
+    <link rel="shortcut icon" href="https://flagcdn.com/16x12/us-mt.png">
 </head>
 
 <body>
     <header class="jumbotron-fluid ">
         <h1 id="nadpis" class="text-white display-3 text-center p-4 sticky-top">Montana</h1>
-        <nav class="navbar navbar-expand-sm navbar-dark bg-dark p-3">
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark p-4">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01"
                 aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -28,7 +29,7 @@
                 <a class="navbar-brand" href="index.html">Základní informace</a>
                 <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Historie <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="historie/index.html">Historie <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="#">Zajímavosti <span class="sr-only">(current)</span></a>
@@ -61,14 +62,38 @@
                         Západní část je pak pod vlivem teplejšího proudění od Pacifiku s mírnějšími zimami a
                         chladnějšími léty.<br><br>
                         Průměrná teplota v Montaně v zimě činí -2 °C. Právě v tomto státě byla naměřena nejnižší teplota
-                        ze všech 48 kontinentálních států, když v roce 1954 klesla až na -57 °C. Sněhová pokrývka je v
+                        ze všech 48 kontinentálních států, když v roce 1954 klesla až na <strong>-57 °C</strong>.
+                        Sněhová pokrývka je v
                         Montaně zcela běžná, ve vyšších polohách jsou dokonce místa, kde sněží každý měsíc v roce.
                         Počítat se musí se sněhovými bouřemi, jenž mohou udeřit kdykoliv od září do dubna.
 
                         Relativně chladná bývají léta, kdy průměrná teplota jen těsně překročuje hranici 20 °C. Ještě
                         studenější jsou noci.
                     </p>
+
+                </section>
+                <section id="priroda">
                     <h3>Turistické informace</h3>
+                    <h4>Národní park Yellowstone</h4>
+                    <p>
+                        Hlavním lákadlem pro turisty je část Yellowstonského národního parku, která sem zasahuje.
+                        <strong>Yellowstonský národní park</strong> je jedním z nejnavštěvovanějších národních parků
+                        Ameriky a nabízí
+                        nádhernou divokou přírodu plnou vodopádů, horkých pramenů a jezírek, bahnitých vývěrů či
+                        gejzírů. Více čtěte v samostatném článku.
+                    </p>
+                    <img src="http://www.cestyposvete.cz/images/amerika/yellowstone/yellowstone4.jpg"
+                        class="img-thumbnail">
+                    <h4>Národní park Glacier</h4>
+                    <p>
+                        V Montaně se kromě části Yellowstonu nachází ještě jeden národní park, a to <strong>Národní park
+                            Glacier</strong>. Ledovcový národní park nabízí skutečně nádherné scenérie, od zasněžených
+                        horských
+                        vrcholků přes alpinské louky, ledovcová jezera, vodopády až k nekonečným prériím.
+                    </p>
+                    <img src="https://file.mahalo.cz/2013/11/logan-pass-jedno-z-nejpopularnejsich-mist-celeho-narodniho-parku-glacier-1024x683.jpg"
+                        class="img-fluid. max-width:768 img-thumbnail">
+                    <h4>Při návštěvě</h4>
                     <p>
                         Každý stát má svá vlastní informační střediska, která poskytují zdarma cestovní informace, mapy,
                         brožury a velmi užitečné zlevňovací kupony na bydlení, atrakce, výlety a restaurace.
@@ -83,13 +108,6 @@
                         (800) 847-4868, (406) 444-2654<br>
                         www: http://visitmt.com/<br>
                     </p>
-
-                </section>
-                <section id="ekonomie">
-
-                </section>
-                <section id="priroda">
-
                 </section>
             </main>
             <aside class="col-lg-4">
@@ -117,23 +135,23 @@
                     </ul>
                     <img src="img/rasa.png" class="img-fluid">
                     <h3>Náboženství</h3>
-                <ul>
-                    <li>křesťané 79 %</li>
                     <ul>
-                        <li>protestanté 55 %</li>
+                        <li>křesťané 79 %</li>
                         <ul>
-                            <li>luteráni 15 %</li>
-                            <li>metodisté 8 %</li>
-                            <li>baptisté 5 %</li>
-                            <li>presbyteriáni 4 %</li>
-                            <li>ostatní protestanté 23 %</li>
+                            <li>protestanté 55 %</li>
+                            <ul>
+                                <li>luteráni 15 %</li>
+                                <li>metodisté 8 %</li>
+                                <li>baptisté 5 %</li>
+                                <li>presbyteriáni 4 %</li>
+                                <li>ostatní protestanté 23 %</li>
+                            </ul>
+                            <li>římští katolíci 24 %</li>
                         </ul>
-                        <li>římští katolíci 24 %</li>
+                        <li>mormoni 3 %</li>
+                        <li>bez vyznání 18 %</li>
                     </ul>
-                    <li>mormoni 3 %</li>
-                    <li>bez vyznání 18 %</li>
-                </ul>
-                <img src="img/faith.png" class="img-fluid">
+                    <img src="img/faith.png" class="img-fluid">
                 </section>
             </aside>
         </div>
@@ -147,9 +165,9 @@
                 <p>&copy; 2020, SŠPU Opava</p>
             </div>
             <div class="col-sm-6">
-                <h4>Zdroj informací: </h4>
-                <p><a href="https://cs.wikipedia.org/wiki/%C4%8Cesko">https://cs.wikipedia.org/wiki/%C4%8Cesko</a></p>
-                <p>A hlavně hodiny a kódy pana učitele :)</p>
+                <h4 class="text-white">Zdroj informací: </h4>
+                <p><a href="https://www.amerika.cz/staty/montana">https://www.amerika.cz/staty/montana</a></p>
+                <p><a href="https://cs.wikipedia.org/wiki/Montana">hhttps://cs.wikipedia.org/wiki/Montana</a></p>
             </div>
         </div>
     </footer>
