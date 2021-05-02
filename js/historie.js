@@ -25,114 +25,45 @@ const heroes = [
         "death": "Stále žije",
         "biography": "Greg Gianforte je americký podnikatel a také politik za Republikánskou stranu. V letech 2017 až 2020 byl poslancem Sněmovny reprezentantů Spojených států amerických za Montanu. Ve volbách v roce 2020 byl následně zvolen guvernérem Montany.",
         "portraits": [
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Greg_Gianforte_crop.jpg/225px-Greg_Gianforte_crop.jpg"
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Greg_Gianforte_crop.jpg/225px-Greg_Gianforte_crop.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/6/61/Greg_Gianforte_115th_congress.jpg"
         ],
         "online": "https://cs.wikipedia.org/wiki/Greg_Gianforte"
     },
     {
-        "name": "Tomáš Garrigue Masaryk",
-        "birth": "7.3.1850",
-        "death": "14.9.1937",
-        "biography": "T. G. Masaryk byl pedagog, politik a filozof. V roce 1918 se stal prvním československým prezidentem. Jeho osoba bývá spojována většinou pouze s obdobím první republiky, ačkoli značnou část svého díla vykonal již před ní, zvláště pokud jde o filozofickou realizaci jeho díla knižně, literární časopiseckou činnost a vynikající aktivitu v jeho třech poslaneckých obdobích ve vídeňské říšské radě. Masaryk byl označen za \"Prezidenta Osvoboditele\". Ještě za jeho života a prezidentování, k jeho osmdesátým narozeninám 7. 3. 1930, se národní shromáždění usneslo na zákoně \"Masaryk se zasloužil o stát\" (Lex Masaryk). Když \"Tatíček Masaryk\" 14. září 1937 po zánětu plic zemřel, zemřel pro jeho obdivovatele symbol morální velikosti a velké autority.",
+        "name": "Joseph Kemp Toole",
+        "birth": "12.5.1851",
+        "death": "11.3.1929",
+        "biography": "Toole se narodil v Savaně, Missouri a chodil do veřejné školy sv. Josefa. V roce 1868 vystudoval Západní Vojenskou Instituci v New Castlu s několika oceněními. Přestěhoval se do Heleny, kde studoval právo. Později se stal prezidentem Montanského teritoria. Vzal si Lily Rosecranskou a měli spolu 3 děti.",
         "portraits": [
-            "tgm-01.png",
-            "tgm-02.png",
-            "tgm-03.jpg",
-            "masaryk-capek.gif"
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Joseph_Kemp_Toole.jpg/220px-Joseph_Kemp_Toole.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/f/f8/JosephKToole.JPG"
         ],
-        "online": "https://cs.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Garrigue_Masaryk"
+        "online": "https://en.wikipedia.org/wiki/Joseph_Toole"
     },
     {
-        "name": "Václav Havel",
-        "birth": "5.10.1936",
-        "death": "18.12.2011",
-        "biography": "Spisovatel a dramatik, zakázaný umělec, pronásledovaný občan, vězeň svědomí, vůdčí osobnost nenásilného svržení komunistického režimu a politických změn v Československu, obránce lidských a občanských práv, poslední prezident Československa a první prezident České republiky.",
+        "name": "Gary Cooper",
+        "birth": "7.5.1901",
+        "death": "13.5.1961",
+        "biography": "Gary Cooper se narodil jako Frank James Cooper 7. května 1901 v montanské Heleně jako druhý syn anglických přistěhovalců Charlese Henry Coopera, který se od svého příchodu do USA v roce 1885 stačil vypracovat ze soudního písaře až na respektovaného vrchního soudce, a Alici rozené Brazier. Frankova rodina byla v době jeho dětství už jednou z nějzámožnějších ve městě a vlastnila i šestisetakrový ranč Seven-Bar-Nine, kde si mohli Frank se svým starším bratrem Arthurem (*1895)vyhrát dosytosti. Staré dobré časy Divokého západu sice již dávno pominuly, ale i tak se Frank stačil nadýchat omamného vzduchu starých indiánských a kovbojských dobrodružství.",
         "portraits": [
-            "havel-01.jpg",
-            "havel-02.jpg",
-            "havel-03.jpg"
+            "https://img.csfd.cz/files/images/creator/photos/161/978/161978231_317dfa.png?w100h132crop",
+            "https://upload.wikimedia.org/wikipedia/commons/2/27/Gary_cooper_promo_image.jpg"
         ],
-        "online": "https://cs.wikipedia.org/wiki/V%C3%A1clav_Havel"
+        "online": "https://www.csfd.cz/tvurce/761-gary-cooper/"
     },
     {
-        "name": "Jan Amos Komenský",
-        "birth": "28.3.1592",
-        "death": "15.11.1670",
-        "biography": "Byl poslední biskup Jednoty bratrské a jeden z největších českých myslitelů, filosofů a spisovatelů. Během svého života si získal renomé především jako pedagog, resp. teoretik pedagogiky a autor mnoha spisů z tohoto oboru. Byl jediným tvůrcem originální, filosoficky ukotvené pedagogické soustavy v českých zemích,[3] zabýval se všeobecnou teorií výchovy, didaktikou, vytvořil speciální metodiku výuky jazyků a sám sepisoval originální učebnice. Už za Komenského života si získaly mimořádnou oblibu jeho jazykové příručky Janua linguarum reserata (Dvéře jazyků otevřené, známé jako Brána jazyků otevřená) a Orbis sensualium pictus (Svět v obrazech). Komenský je považován za zakladatele moderní pedagogiky a vysloužil si přízvisko Učitel národů.",
+        "name": "Patrick Duffy",
+        "birth": "17.3.1949",
+        "death": "Stále žije",
+        "biography": "Patrick G. Duffy je americký televizní herec a režisér. K jeho nejznámějším rolím patří Bobby Ewing v seriálu stanice CBS Dallas a Frank Lambert v seriálu stanice ABC v sitkomu Krok za krokem. V roce 1976 Duffy dostal roli Marka Harrise v seriálu Muž z Atlantidy.",
         "portraits": [
-            "komensky-01.jpg",
-            "komensky-02.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Patrick_Duffy_-_Monte-Carlo_Television_Festival.jpg/230px-Patrick_Duffy_-_Monte-Carlo_Television_Festival.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Patrick_Duffy_at_PaleyFest_2013.jpg/225px-Patrick_Duffy_at_PaleyFest_2013.jpg"
         ],
-        "online": "https://cs.wikipedia.org/wiki/Jan_Amos_Komensk%C3%BD"
+        "online": "https://cs.wikipedia.org/wiki/Patrick_Duffy"
     },
-    {
-        "name": "Jan Hus",
-        "birth": "přibližně 1370",
-        "death": "6.7.1415",
-        "biography": "Jan Hus svůj život zasvětil boji za reformu církve a společnosti. Rektor Pražské univerzity, který se marně snažil obhájit své myšlenky před koncilem a byl upálen. Jeho lidský vzor i poselství jeho života se staly základem jedné z nejpodstatnějších historických etap našich dějin, která nese jeho jméno – husitství.",
-        "portraits": [
-            "hus-01.jpg",
-            "hus-02.jpg",
-            "hus-03.jpg"
-        ],
-        "online": "https://cs.wikipedia.org/wiki/Jan_Hus"
-    },
-    {
-        "name": "Antonín Dvořák",
-        "birth": "8.9.1841",
-        "death": "1.5.1904",
-        "biography": "Světoznámý český hudební skladatel, dirigent a profesor, jeden z největších hudebních géniů lidských dějin. Když Bůh rozdával darem nadání k hudbě, šel si Dvořák ne dvakrát, ale nejspíše hned třikrát. Za svůj život složil 11 oper (např. Rusalka, Armida, Král a uhlíř, či Jakobín), vokální a vokálně-instrumentální díla (Svatou Ludmilu, Requiem, Te Deum a nádhernou Stabat Mater), komorní skladby, koncerty, sbory, písně (Biblické písně), klavírní skladby, symfonické básně a 9 symfonií, z nichž vysoko do pomyslných hudebních nebes ční symfonie 9. - famózní „Novosvětská“, patřící k tomu vůbec nejkrásnějšímu, co kdy člověk zkomponoval. Snad se ani nelze divit tomu, že Američané, na jejichž půdě \"Novosvětská\" vznikla, považují Antonína Dvořáka také trochu za svého skladatele.",
-        "portraits": [
-            "dvorak-01.jpg",
-            "dvorak-02.jpg",
-        ],
-        "online": "https://cs.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k"
-    },
-    {
-        "name": "Karel Čapek",
-        "birth": "9.1.1890",
-        "death": "25.12.1938",
-        "biography": "Karel Čapek byl žurnalistou, prozaikem, dramatikem, překladatelem a kritikem, autorem knih pro děti. Karel Čapek podnikl řadu cest do zahraničí, z nichž získal podněty pro své cestopisné fejetony a prózy. Byl zvolen prvním předsedou československého PEN-KLUBU. Ve své vinohradské vile organizoval Karel Čapek přátelské páteční besedy. Ženou Karla Čapka byla herečka a spisovatelka Olga Scheinpflugová. Čapkovo mnohotvárné a neobyčejně bohaté dílo přervala náhlá smrt. Zemřel 25. prosince 1938 v Praze na zápal plic. Je pochován na Vyšehradě.",
-        "portraits": [
-            "capek-01.jpg",
-            "masaryk-capek.gif",
-            "capkove.jpg"
-        ],
-        "online": "https://cs.wikipedia.org/wiki/Karel_%C4%8Capek"
-    },
-    {
-        "name": "Božena Němcová",
-        "birth": "4.2.1820",
-        "death": "21.1.1862",
-        "biography": "Do podvědomí čtenářů se vryla jako autorka povídek a rozsáhlejších próz z venkovského prostředí a autorka pohádkových sbírek. Začínala jako básnířka a později svou činnost přizpůsobila zájmu o lidové tradice a folklór. Hrdiny povídek jsou většinou prostí lidé, které vykresluje až idealizovaně a staví je do kontrastu s boháči a vrchností.",
-        "portraits": [
-            "nemcova-01.jpg",
-            "nemcova-02.jpg"
-        ],
-        "online": "https://cs.wikipedia.org/wiki/Bo%C5%BEena_N%C4%9Bmcov%C3%A1"
-    },
-    {
-        "name": "Emil Zátopek",
-        "birth": "19.9.1922",
-        "death": "21.11.2000",
-        "biography": "Emil Zátopek se stal prvním člověkem na světě, který uběhl trať 10 km pod 29 minut (28:54,2 1. června 1954 v Bruselu) a trať 20 km pod jednu hodinu (59:51,8 29. září 1951 ve Staré Boleslavi). Celkem vytvořil třináct světových rekordů na kilometrových a pět na mílových tratích. Jde o jednoho z největších atletů všech dob. Nejvíce ale proslul během olympijských her 1952 v Helsinkách, kde vyhrál běh na 5 km (14:06,72), 10 km (29:17,0), a dokonce i maratón (2:23:03,2), který tehdy běžel poprvé v životě. V každé z těchto disciplín tehdy zároveň ustavil nový olympijský rekord. Tento „trojboj“ se dodnes žádnému vytrvalci nepodařilo zopakovat a atletičtí experti pochybují, že se ještě někomu kdy podaří. Byl znám svým upracovaným stylem běhu, doprovázeným křečovitými grimasami, v cizině byl přezdíván česká lokomotiva a Satupekka.",
-        "portraits": [
-            "zatopek-01.jpg",
-            "zatopek-02.jpg",
-            "zatopek-03.jpg"
-        ],
-        "online": "https://cs.wikipedia.org/wiki/Emil_Z%C3%A1topek"
-    },
-    {
-        "name": "Ema Destinnová",
-        "birth": "20.2.1878",
-        "death": "28.1.1930",
-        "biography": "Do dějin umění se výrazným způsobem zapsala česká umělkyně Emílie Pavlína Kittlová, známá spíše jako Ema Destinnová. Žena, jejíž kouzlo bylo možné spatřit i slyšet, inspirovala umělce v tvorbě i životě. Její lyrický soprán mohutného a dramaticky zbarveného hlasu společně s hereckým ztvárněním stále znovu vyvolával úžas v koncertních sálech slavných scén začátkem 20. století.",
-        "portraits": [
-            "destinova-01.jpg",
-        ],
-        "online": "https://cs.wikipedia.org/wiki/Ema_Destinnov%C3%A1"
-    },
+    
 ];
 
 // Články s historickými zajímavostmi
