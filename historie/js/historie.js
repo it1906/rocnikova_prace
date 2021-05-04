@@ -161,13 +161,13 @@ $(function(){
         });    
     
         heroes.forEach((hero)=>{
-            $("#postavy .list-group").append(`<li class="list-group-item list-group-item-action list-group-item-primary">${hero.name}</li>`);
+            $("#postavy .list-group").append(`<li class="list-group-item list-group-item-action list-group-item-dark">${hero.name}</li>`);
         });
 
         function fillPersonCard(person) {
 
             let hero = heroes.find(item => {return item.name === person});
-            $(".card-header").html(`<i class="fas fa-star-of-life"></i> <b>${hero.birth}</b> - <i class="fas fa-cross"></i> <b>${hero.death}</b>`);
+            $(".card-header").html(`<i class="fas fa-star-of-life "></i> <b>${hero.birth}</b> - <i class="fas fa-cross "></i> <b>${hero.death}</b>`);
             $(".card-title").text(hero.name);
             $(".card-text").text(hero.biography);
             $(".card-footer").html(`Odkaz: <a href="${hero.online}">${hero.online}</a>`);
@@ -203,8 +203,8 @@ $(function(){
                     <p><a href="${article.source}" target="_new">Celý článek</a></p>
                 </div>
                 <div class="article-footer">Autor: ${article.author} 
-                <button type="button" class="btn btn-success likes"><i class="fas fa-thumbs-up"></i> <span class="badge badge-light">${article.likes}</span></button>
-                <button type="button" class="btn btn-danger dislikes"><i class="fas fa-thumbs-down"></i> <span class="badge badge-light">${article.dislikes}</span></button>
+                <button type="button" class="btn btn-success likes"><i class="fas fa-thumbs-up"></i> <span class="badge badge-light text-dark">${article.likes}</span></button>
+                <button type="button" class="btn btn-danger dislikes"><i class="fas fa-thumbs-down"></i> <span class="badge badge-light text-dark">${article.dislikes}</span></button>
                 </div>
               </article>
             </div>        
