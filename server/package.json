@@ -1,0 +1,17 @@
+{
+    "name": "montana-souhrn",
+    "version": "1.0.0",
+    "description": "Rocnikova prace",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server",
+      "dev": "nodemon server"
+    },
+    "author": "Jan Hadamcik",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1",
+      "jquery": "^3.6.0"
+    }
+  }
+  
